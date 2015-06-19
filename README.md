@@ -1,4 +1,5 @@
-# turbo-octo-archer
+#Linux Shell
+Author Jagdeep Singh
 Simple command line shell for Linux. Work in progress
 
 Works
