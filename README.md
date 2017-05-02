@@ -1,13 +1,5 @@
 #Linux Shell
 Author Jagdeep Singh
-Simple command line shell for Linux. Work in progress
+Simple command line shell for Linux. 
 
-Works
-cd 
-cat
-able to hold history
-ls 
-
-Bugs
-multi piping for multiple commands
-various other linux commands may cause bugs
+multi piping for multiple commands may cause bugs
